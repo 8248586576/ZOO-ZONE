@@ -1,5 +1,5 @@
 <?php
-include 'db.php';
+include 'pro2.php';
 
 $enclosure_id = $_GET['enclosure_id'];
 
