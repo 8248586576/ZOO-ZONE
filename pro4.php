@@ -1,5 +1,5 @@
 <?php
-include 'db.php';
+include 'pro2.php';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST["name"];
